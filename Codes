@@ -1,5 +1,5 @@
 {
-	"Vacuum": {
+	"vacuum": {
 		"Currency": "Coins",
 	  	"Amount": 5000
 	}
