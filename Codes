@@ -1,6 +1,6 @@
 {
 	"candy": {
-		"Currency": "Coins",
+		"Currency": "Size",
 	  	"Amount": 10000
 	}
 }
