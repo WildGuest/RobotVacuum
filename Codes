@@ -2,5 +2,9 @@
 	"candy": {
 		"Currency": "Size",
 	  	"Amount": 10000
+	},
+	"like": {
+		"Currency": "Size",
+	  	"Amount": 10000
 	}
 }
