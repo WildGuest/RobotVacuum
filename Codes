@@ -1,4 +1,8 @@
 {
+	"vacuum": {
+		"Currency": "Size",
+	  	"Amount": 10000
+	},
 	"candy": {
 		"Currency": "Size",
 	  	"Amount": 10000
