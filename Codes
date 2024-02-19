@@ -1,4 +1,8 @@
 {
+	"lollipop": {
+		"Currency": "Size",
+	  	"Amount": 10000
+	},
 	"vacuum": {
 		"Currency": "Size",
 	  	"Amount": 10000
