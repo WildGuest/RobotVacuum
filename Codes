@@ -1,4 +1,8 @@
 {
+	"popcorn": {
+		"Currency": "Size",
+	  	"Amount": 10000
+	},
 	"lollipop": {
 		"Currency": "Size",
 	  	"Amount": 10000
