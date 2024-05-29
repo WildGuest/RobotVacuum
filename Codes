@@ -18,5 +18,9 @@
 	"like": {
 		"Currency": "Size",
 	  	"Amount": 10000
+	},
+	"boost": {
+		"Currency": "Size",
+	  	"Amount": 10000
 	}
 }
