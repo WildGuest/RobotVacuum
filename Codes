@@ -22,5 +22,9 @@
 	"boost": {
 		"Currency": "Size",
 	  	"Amount": 10000
+	},
+	"safe": {
+		"Currency": "Size",
+	  	"Amount": 10000
 	}
 }
