@@ -26,5 +26,9 @@
 	"safe": {
 		"Currency": "Size",
 	  	"Amount": 10000
+	},
+	"popcorn": {
+		"Currency": "Size",
+	  	"Amount": 10000
 	}
 }
